@@ -1,0 +1,10 @@
+linux important things                   
+ 1.case sensitive 
+ 2.linux mostly used with cli-command line interface not with gui-graphical user interface
+ ls command is used to list 
+ in linux root user is auto disable when new os put
+ if login with root user then it will show # symbol in terminal otherwise it show $ symbolthat means normal user   https://www.youtube.com/watch?v=TO-aow4T2Kk&t=2150s--youtube link
+ 
+ pwd--print working directory (to check which directory i am now
+ 
+ alt+prtsc= screenshot
